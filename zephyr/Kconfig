@@ -1,0 +1,8 @@
+menu "CANtina"
+
+config CANTINA
+    bool
+    help
+        Enable support for the CANtina CANopen stack
+
+endmenu

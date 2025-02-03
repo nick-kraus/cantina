@@ -1,0 +1,4 @@
+name: cantina
+build:
+  cmake: zephyr/
+  kconfig: zephyr/Kconfig
